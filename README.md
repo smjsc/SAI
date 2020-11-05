@@ -26,6 +26,6 @@ also illustrate the superiority of the proposed method. On the other
 hand, under extreme light conditions, the proposed method can
 effectively solve the over/under exposure problem and reconstruct
 the occluded objects clearly.</font></div></p>
-<div style="text-align: center; width: 800px; border: green solid 1px;">
+<div style="text-align: center; width: 700px; border: green solid 1px;">
 <img alt="" src="https://github.com/smjsc/SAI/blob/main/img/highlight_forweb.png" style="margin: 0 auto;" />
 </div>
