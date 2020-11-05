@@ -3,7 +3,7 @@
 <div style="font-family:Times New Roman" align = "center"><font size ="5"><i> <a href="https://en.whu.edu.cn/">WuHan University</a></i></font></div><p>
 <div style="font-family:Times New Roman" align = "center"><font size=4>[pdf] &nbsp;&nbsp;[Code&Dataset] </font></div>
 <p><h1 style="font-family:Times New Roman" align="center"><i> Abstract <i> </h1><p>
-<p><div style="font-family:Times New Roman">  <font size="4">  &nbsp &nbsp&nbsp &nbsp The technique of the synthetic aperture imaging (SAI)
+<p><div style="font-family:Times New Roman" align="left">  <font size="4">  &nbsp; &nbsp; &nbsp; &nbsp; The technique of the synthetic aperture imaging (SAI)
 can reconstruct the occluded objects by blurring out the occlusions
 through multi-view exposures, which is equivalent to imaging with
 the large aperture and low depth of field. However, due to the very
