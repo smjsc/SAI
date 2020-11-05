@@ -29,5 +29,5 @@ the occluded objects clearly.</font></div></p>
 <div style="text-align: center; width: 700px;">
 <img alt="" src="https://raw.githubusercontent.com/smjsc/SAI/main/img/highlight_forweb.png" style="margin: 0 auto;" />
 </div>
-<div style="font-family:Times New Roman" align="left">  <font size="4"> Figure 1. <b>Comparison of traditional camera based SAI and event camera based SAI.</b> The first column are experimental scene and object image. Columns 2, 3, and 4 are correspond to the comparison of conventional camera based SAI results and event camera based SAI results under dense occlusions, extreme high light and extreme low light conditions."Hey" </font></div>
+<div style="font-family:Times New Roman" align="left">  <font size="4"> Figure 1. <b>Comparison of traditional camera based SAI and event camera based SAI.</b> The first column are experimental scene and object image. Columns 2, 3, and 4 are correspond to the comparison of conventional camera based SAI results and event camera based SAI results under dense occlusions, extreme high light and extreme low light conditions. </font></div>
 
